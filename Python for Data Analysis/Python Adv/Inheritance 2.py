@@ -1,6 +1,6 @@
 #MUlTIPLE INHERITAN
 #  the one or more parent class can be
-# accesible for child class,the accesible methode is nothing but ineritance
+# accesible for child class,the accesible methode is nothing but inheritance
 # Given Ex the Student And Marks is Parent class of Result class,Result clas
 # is a child class of Student and Marks.
 class Student:
