@@ -1,0 +1,14 @@
+# Varibale is a container to data value.the contianer identifies the data type and data size of variable.
+# TYPE=type of data can stores in the container.
+# SIZE= a size is also depends on the data.how many data stores in the container.
+# RULES=
+#        We do not start with the space/Number.
+#        We do not use the space in between of variable name.
+#        We do not use special symbol except with underscore(_). 
+
+#SYNTAX=
+#      variablename = data/expression
+
+#EX= 
+#    a=5
+    
